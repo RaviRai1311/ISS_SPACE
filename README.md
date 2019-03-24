@@ -1,0 +1,2 @@
+# ISS_SPACE
+This project, titled, ISS is a simple yet efficient location locator for ISS overhead Earth’s map. It manages the position of the station and meanwhile allows base station the access of the details of the people working there .The database has a very low risk of getting corrupted and is also secure against malicious activities. Hence, this project offers a great deal of ease and comfort to the base station in retrieving the exact location.
